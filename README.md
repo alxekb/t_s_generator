@@ -1,10 +1,4 @@
-# iubenda take home challenge
-
-We’re really happy to invite you to complete the next stage of the engineering interview process.
-What we’d like you to do
-Instead of building something dull and unrelated to what we do here in iubenda let’s create a simplified version of iubenda T&C Generator.
-
-The T&C generator is software which given:
+### The T&C generator is software which given:
 
 - A template
 
